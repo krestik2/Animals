@@ -5,5 +5,7 @@ public class Cat {
         System.out.println("I love cats");
 
         // updating the class Cat
+
+        // completed the class
     }
 }
